@@ -12,6 +12,18 @@ Features
 4. Best Practise of Thread
 5. RPC Framework
 6. Configuration files
+7. User-defined protocols
+8. Audit
+9. Logging
+
+Requirements
+===========
+
+1. Perf4J
+2. metrics
+3. logback
+4. Netty
+5. Jetty
 
 License
 ======

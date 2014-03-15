@@ -1,7 +1,7 @@
 daemon
 ======
 
-daemon is an open source Java server-side Framework for quick creation of *Stable*,*Robust*,*Scalable* multi-client Server applications.
+daemon is an open source Java server-side Framework for quick creation of **Stable**,**Robust**,**Scalable**,**Distributed** multi-client Server applications.
 With daemon you can concentrate on just the application logic on hand.
 
 Features
@@ -16,6 +16,8 @@ Features
 7. User-defined protocols
 8. Audit
 9. Logging
+10. Gossip
+11. Master/Slave
 
 Requirements
 ===========

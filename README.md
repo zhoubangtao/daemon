@@ -1,7 +1,8 @@
 daemon
 ======
 
-Daemon Server Framework 
+daemon is an open source Java server-side Framework for quick creation of *Stable*,*Robust*,*Scalable* multi-client Server applications.
+With daemon you can concentrate on just the application logic on hand.
 
 Features
 =======
@@ -19,7 +20,7 @@ Features
 Requirements
 ===========
 
-1. Perf4J
+1. Perf4J,FProfiler
 2. metrics
 3. logback
 4. Netty

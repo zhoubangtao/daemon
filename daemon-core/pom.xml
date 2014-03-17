@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.zhoubangtao.daemon</groupId>
+		<artifactId>daemon-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>daemon-core</artifactId>
+	<name>Daemon Core</name>
+	<packaging>jar</packaging>
+	<description>
+		daemon is an open source Java server-side Framework for quick creation of 
+		Stable,Robust,Scalable,Distributed multi-client Server applications. 
+		With daemon you can concentrate on just the application logic on hand.
+    </description>
+	<url>http://maven.apache.org</url>
+
+</project>
+
